@@ -10,3 +10,7 @@ Performed SQL queries including:
 - Filtering
 - Sorting
 - String Functions
+
+Database Connection-
+The project was completed using a remote MySQL database provided by Datamites.
+Database credentials are not shared publicly for security reasons.
