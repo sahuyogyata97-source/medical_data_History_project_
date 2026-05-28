@@ -1,0 +1,12 @@
+Project Name: PRSQ-01 Medical Data History
+
+Tool Used: MySQL
+
+Performed SQL queries including:
+
+- Joins
+- Aggregate Functions
+- Group By
+- Filtering
+- Sorting
+- String Functions
